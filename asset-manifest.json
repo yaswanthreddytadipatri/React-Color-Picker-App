@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Responsive-Paragraph-Word-Counter/static/css/main.7df44f86.css",
-    "main.js": "/Responsive-Paragraph-Word-Counter/static/js/main.c91ea82b.js",
-    "static/js/787.b3ca4345.chunk.js": "/Responsive-Paragraph-Word-Counter/static/js/787.b3ca4345.chunk.js",
-    "index.html": "/Responsive-Paragraph-Word-Counter/index.html",
-    "main.7df44f86.css.map": "/Responsive-Paragraph-Word-Counter/static/css/main.7df44f86.css.map",
-    "main.c91ea82b.js.map": "/Responsive-Paragraph-Word-Counter/static/js/main.c91ea82b.js.map",
-    "787.b3ca4345.chunk.js.map": "/Responsive-Paragraph-Word-Counter/static/js/787.b3ca4345.chunk.js.map"
+    "main.css": "/React-Color-Picker-App/static/css/main.7df44f86.css",
+    "main.js": "/React-Color-Picker-App/static/js/main.563524c6.js",
+    "static/js/787.b3ca4345.chunk.js": "/React-Color-Picker-App/static/js/787.b3ca4345.chunk.js",
+    "index.html": "/React-Color-Picker-App/index.html",
+    "main.7df44f86.css.map": "/React-Color-Picker-App/static/css/main.7df44f86.css.map",
+    "main.563524c6.js.map": "/React-Color-Picker-App/static/js/main.563524c6.js.map",
+    "787.b3ca4345.chunk.js.map": "/React-Color-Picker-App/static/js/787.b3ca4345.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7df44f86.css",
-    "static/js/main.c91ea82b.js"
+    "static/js/main.563524c6.js"
   ]
 }
